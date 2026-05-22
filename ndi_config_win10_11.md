@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-Install [DistroAV](https://github.com/DistroAV/DistroAV/releases), [NDI Tools](https://get.ndi.video/tools-for-windows) and [NDI SDK](https://ndi.video/for-developers/ndi-sdk/download).
+Install [DistroAV](https://github.com/DistroAV/DistroAV/releases), [NDI Tools](https://get.ndi.video/tools-for-windows) (all systems) and [NDI SDK](https://ndi.video/for-developers/ndi-sdk/download) (master system only).
 
 Professional information is required for downloading NDI SDK, but no more - after filling required fields, a link to download an installer will be emailed to the given address. Similar information will be similarly required upon launching NDI Tools.
 
