@@ -45,11 +45,11 @@ Configure encoding in **Settings and Diagnostics** > **Encoder Settings** also. 
 ## Access Manager
 
 ### Master system
-In Access Manager > **Groups**, ensure the only group listed under **Receive** is Public. **Memo** can be changed to any description. Select Apply to effect any changes.
+In Access Manager > **Groups**, ensure the only group listed under **Receive** is Public, and that there are no groups under **Send**. **Memo** can be changed to any description. Select Apply to effect any changes.
 
 ![](https://i.postimg.cc/9QF1x9xS/Screenshot-2026-05-21-125605.png)
 
-### Input system
+### Input systems
 
 In Access Manager > **Groups**, ensure the only group listed under **Receive** matches that of DistroAV configuration. The only group listed under **Send** should be Public. Select Apply to effect any changes.
 
