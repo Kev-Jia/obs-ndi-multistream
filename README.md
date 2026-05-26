@@ -7,6 +7,8 @@ Install [DistroAV](https://github.com/DistroAV/DistroAV/releases), [NDI Tools](h
 
 Professional information is required for downloading NDI SDK, but no more - after filling required fields, a link to download an installer will be emailed to the given address. Similar information will be similarly required upon launching NDI Tools.
 
+For use of included OBS configuration, install [Input Overlay](https://github.com/univrsal/input-overlay/releases).
+
 ## Discovery Service
 
 ### Master system
